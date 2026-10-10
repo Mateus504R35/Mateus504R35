@@ -122,6 +122,10 @@ I'm interested in **software engineering, backend, data, and AI internship oppor
 
 **[Explore my work on GitHub →](https://github.com/Mateus504R35?tab=repositories)**
 
+<a href="https://www.linkedin.com/in/mateus-504r35/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <sub>Uberlândia, Minas Gerais, Brazil · Always learning, always building.</sub>
 
 </div>
