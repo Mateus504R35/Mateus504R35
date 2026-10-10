@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm a **Computer Science undergraduate at the Federal University of Uberlândia (UFU)**, interested in turning complex problems into useful, reliable software.
+I'm a **Computer Science undergraduate at the Universidade Federal de Uberlândia (UFU)**, interested in turning complex problems into useful, reliable software.
 
 My experience spans **Python automation, SQL databases, software development, and academic research**. I've worked with institutional data and reporting, explored similarity search in PostgreSQL, and built projects involving graph algorithms and data structures.
 
