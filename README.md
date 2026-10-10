@@ -48,6 +48,7 @@ My experience spans **Python automation, SQL databases, software development, an
 
 </div>
 
+
 ### Selected projects
 
 <table>
@@ -63,6 +64,19 @@ PostgreSQL extension integrating **Faiss** for vector similarity search. Part of
 </td>
 <td width="50%" valign="top">
 
+**[EXOVISIONS — NASA Space Apps 2025](https://github.com/feupee/exovisions---nasa-space-apps-2025)**
+
+Team project developed for the **NASA Space Apps Challenge 2025**, combining machine learning and interactive visualizations to explore and identify exoplanets using NASA mission data.
+
+`Python` `Machine Learning` `React` `TypeScript` `Google Cloud`
+
+[AI Model Repository](https://github.com/Mateus504R35/Exoplanetas)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Wikipedia Graph Explorer](https://github.com/Mateus504R35/grafosWikipedia)**
 
 Collects links between Wikipedia articles using **R** and builds a graph in **C++** to explore relationships between pages.
@@ -70,8 +84,6 @@ Collects links between Wikipedia articles using **R** and builds a graph in **C+
 `R` `C++` `Web Scraping` `Graphs`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[FACOM Co-authorship Network](https://github.com/Mateus504R35/grafoCoautoriasFACOM-UFU)**
@@ -81,6 +93,8 @@ Analyzes a network of academic collaborations with graph traversal, connectivity
 `C` `Graph Algorithms` `BFS / DFS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Data Structure Search Comparison](https://github.com/Mateus504R35/Aplicacao-de-Pesquisa-Arvores-e-Vetor)**
@@ -90,8 +104,18 @@ Compares search performance using **binary search trees, AVL trees, and arrays**
 `C` `Data Structures` `Performance`
 
 </td>
+<td width="50%" valign="top">
+
+**More projects coming soon!**
+
+Exploring new applications in software development, artificial intelligence, and data engineering.
+
+`Software Engineering` `AI` `Data`
+
+</td>
 </tr>
 </table>
+
 
 ### Experience beyond repositories
 
